@@ -8,6 +8,6 @@ The [dataset](http://ai.stanford.edu/~amaas/data/sentiment/) has been curated by
 
 ![example](imdb_classifier_sh2.png)
 
-- Results: With resnet34 as the architecture chosen, our model got an accuracy of __93.6%.__
+- Results: Our model got an accuracy of __93.6%.__
 
 ![result](imdb_classifier_sh1.png)
